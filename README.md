@@ -68,8 +68,8 @@ Me encanta construir desde cero, organizar procesos y transformar ideas en produ
 ## 📊 Mis estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rocioayuntamagi&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocioayuntamagi&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -83,7 +83,7 @@ Me encanta construir desde cero, organizar procesos y transformar ideas en produ
   <a href="https://vercel.com/rocio-ayuntas-projects/mi-portfolio">
     <img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=firefox&logoColor=fff"/>
   </a>
-  <a href="https://github.com/TU_USUARIO">
+  <a href="https://github.com/rocioayuntamagi">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff"/>
   </a>
 </p>
